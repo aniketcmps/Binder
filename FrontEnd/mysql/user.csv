@@ -1,0 +1,16 @@
+email,password,fname,lname,phone,skills,location,summary,linkedin,portfolio,resume,salary,jobidgood,jobidbad
+aaron@gmail.com,smarty,Aaron,Alessi,5142364587,"PHP,HTML,CSS",Raleigh,NULL,NULL,NULL,NULL,60000,NULL,NULL
+aniket@gmail.com,star,Aniket,Deshpande,1526457815,"C++,Java",Tempe,NULL,NULL,NULL,NULL,50000,NULL,NULL
+brian@gmail.com,malicious,Brian,Morgan,2154784541,"HTML,CSS,Javascript",Seatle,NULL,NULL,NULL,NULL,58000,NULL,NULL
+dan@rediffmail.com,supersub,Dan,Walsh,2154152365,C++,Raleigh,NULL,NULL,NULL,NULL,50000,NULL,NULL
+david@gmail.com,standard,David,Stromberg,4152367415,"Java,PHP",Long Beach,NULL,NULL,NULL,NULL,40000,NULL,NULL
+jennifer@yahoo.com,market,Jennifer,Crowley,2154784512,".Net,Java",Rochester,NULL,NULL,NULL,NULL,75000,NULL,NULL
+john@yahoo.com,loser,John,Maze,4251542546,MySql,Tuscon,NULL,NULL,NULL,NULL,50000,NULL,NULL
+kate@gmail.com,hacker,Kate,Adams,1254784125,"PHP,VB",Orlando,NULL,NULL,NULL,NULL,70000,NULL,NULL
+mark@yahoo.com,status,Mark,Brown,2014547845,Java,New York,NULL,NULL,NULL,NULL,40000,NULL,NULL
+michael@yahoo.com,poorman,Michael,Baglio,2365478851,"HTML,CSS",Boston,NULL,NULL,NULL,NULL,55000,NULL,NULL
+rick@gmail.com,clever,Rick,Little,4802541254,"Java,HTML",Los Angeles,NULL,NULL,NULL,NULL,49000,NULL,NULL
+stanley@yahoo.com,stylus,Stanley,Monteiro,2125478652,"Cobol,C++",Santa Monica,NULL,NULL,NULL,NULL,55000,NULL,NULL
+steve@gmail.com,poison,Steve,Hoffman,4802154578,"VB,.Net",Las Vegas,NULL,NULL,NULL,NULL,57000,NULL,NULL
+stuart@rediffmail.com,smokers,Stuart,Little,2021547845,Marketing,San Diego,NULL,NULL,NULL,NULL,45000,NULL,NULL
+thomas@yahoo.com,starting,Thomas,Lamble,2125478526,Javascript,Chicago,NULL,NULL,NULL,NULL,48000,NULL,NULL

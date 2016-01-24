@@ -1,0 +1,144 @@
+.user
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: no-repeat center center;
+    background-size: cover;
+}
+
+.one
+{
+    background-image: url('http://placehold.it/350x150');
+}
+
+.two
+{
+    background-image: url('http://placehold.it/150x150');
+}
+
+.three
+{
+    background-image: url('http://placehold.it/350x750');
+}
+
+body{
+    margin-top: 100px;
+}
+
+.custom-nav{
+    position: fixed;
+    z-index: 900;
+    width: 100%;
+    min-width: 100%;
+    height: 60px;
+    line-height: 60px;
+    color: white !important;
+    padding: 0px;
+    margin: 0px;
+    top: 0px;
+}
+
+.nav-link{
+    color: white;
+    font-size: 18px;
+
+}
+
+.nav-button{
+    color: white;
+    font-size: 30px;
+    padding-left:20px;
+    padding-right:20px;
+
+}
+
+.nav-button:hover{
+    text-decoration: none;
+    color: white;
+}
+
+.nav-button:focus{
+    text-decoration: none;
+    color: white;
+}
+
+.nav-link:hover{
+    text-decoration: none;
+    color: white;
+}
+
+.nav-link:focus{
+    text-decoration: none;
+    color: white;
+}
+
+#ham-menu{
+    z-index: 1000;
+    background-color: #cfd8dc;
+    height: 100%;
+    width: 300px;
+    min-width: 300px;
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    left: -300px;
+    right: 0px;
+}
+
+.hamb-link{
+    color: white;
+}
+
+.ham-logo{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: white;
+}
+
+.ham-list{
+    overflow-y: scroll;
+}
+
+.ham-list-item{
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    overflow-x: hidden;
+    background-color: #b0bec5;
+    padding-left: 10px;
+}
+
+.ham-list-item:hover{
+    background-color: #90a4ae;
+    color: white;
+}
+
+#close-ham{
+    position: fixed;
+    right: 10px;
+    top: 112px;
+    z-index: 1100;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 24px;
+    color: white;
+    margin-top: 7px;
+    background-color: rgba(244, 67, 54, .9);
+}
+
+#close-ham:hover{
+    background-color: rgba(244, 67, 54, 1);
+    --webkit-box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.4);
+    -moz-box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.4);
+    box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.4);
+    transition: .1s;
+}
+
+#register-form{
+    margin-top: 30px;
+}
